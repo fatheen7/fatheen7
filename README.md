@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/fxtheen" target="blank"><img src="https://img.shields.io/twitter/follow/fxtheen?logo=twitter&style=for-the-badge" alt="fxtheen" /></a> </p>
 
-- 🌱 I’m currently learning **Java from IIT MADRAS.**
+- 🌱 I’m currently learning **Java and Fullstack**
 
 - 💬 Ask me about **C,Python**
 

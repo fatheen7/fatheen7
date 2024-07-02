@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fatheen M</h1>
+<h1 align="center">Hi 👋, I'm M Muhammad Fatheen</h1>
 <h3 align="center">A student pursuing a major in computer science and engineering.</h3>
 
 <p align="left"> <a href="https://twitter.com/fxtheen" target="blank"><img src="https://img.shields.io/twitter/follow/fxtheen?logo=twitter&style=for-the-badge" alt="fxtheen" /></a> </p>

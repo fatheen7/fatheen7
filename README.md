@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fxtheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fxtheen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/m muhammad fatheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m muhammad fatheen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-fatheen-224a68249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad fatheen" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fatheen7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fatheen7" height="30" width="40" /></a>
 </p>
 

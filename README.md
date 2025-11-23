@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm M Muhammad Fatheen</h1>
-<h3 align="center">A student pursuing a major in computer science and engineering.</h3>
+<h3 align="center">A final year student pursuing a major in computer science and engineering.</h3>
 
 <p align="left"> <a href="https://twitter.com/fxtheen" target="blank"><img src="https://img.shields.io/twitter/follow/fxtheen?logo=twitter&style=for-the-badge" alt="fxtheen" /></a> </p>
 
-- 🌱 I’m currently learning **Java and Fullstack**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **C,Python**
+- 💬 Ask me about **C,Python,Java**
 
 - 📫 How to reach me **fatheen05@gmail.com**
 

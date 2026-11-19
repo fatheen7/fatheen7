@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fatheen05@gmail.com**
 
-- 🌐 Check out my portfolio https: **//muhammadfatheen.com/**
+- 🌐 Check out my portfolio: **https://www.muhammadfatheen.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

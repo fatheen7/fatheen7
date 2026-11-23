@@ -13,9 +13,10 @@
 
 ## About me
 
-- 🧭 **Product Management Intern at Zuper**, a B2B field-service management platform. I work with product managers and engineers on discovery, requirements and user stories.
-- 🚀 **Co-founded Wrinkl**, an ironing service ordered on WhatsApp. Second runner-up at **IEEE YESIST12 2025**.
+- 🧭 **Product Management Intern at Zuper**, a B2B field-service management platform. I wrote the PRD for Payment Schedules on proposals, now in build, and prototype features before they're built.
+- 🚀 **Co-founded Wrinkl**, an ironing service ordered on WhatsApp and a registered MSME. Second runner-up at **IEEE YESIST12 2025**.
 - 🎓 **B.E. Computer Science and Engineering**, Sathyabama Institute of Science and Technology, 2026.
+- 🤝 **Technical team, GDG on Campus Sathyabama**, formerly GDSC. We went to tech events as a team, the biggest being Google DevFest at IIT Madras.
 - 🔍 Looking for **Associate Product Manager** roles.
 
 ## Product case studies
@@ -30,8 +31,8 @@ Each one goes from research to a decision, success metrics and a test plan.
 
 ## Projects
 
-- **[AI Traffic Management System](https://ai-traffic-management-ivory.vercel.app/)**: traffic signals that give busier roads more green time and clear the way for ambulances. Python, OpenCV, FastAPI. [Live demo](https://ai-traffic-management-ivory.vercel.app/) · [Code](https://github.com/fatheen7/ai-traffic)
-- **Smart Blind Stick**: a government-funded (DST, ₹22 lakh) assistive device for visually impaired users, with GPS, indoor positioning, obstacle detection and emergency alerts.
+- **AI Traffic Management System**: a team-of-four project from 2025. Traffic signals that give busier roads more green time and clear the way for ambulances. I designed the signal logic. Presented at Universiti Sains Islam Malaysia's International Project Pitching Event. Python, OpenCV.
+- **Smart Blind Stick**: a DST-funded team project backed by IISc Bengaluru. An assistive device for visually impaired users, with GPS, indoor positioning, obstacle detection and emergency alerts. Third best project at Sathyabama's final-year project event.
 
 ## Product toolkit
 
